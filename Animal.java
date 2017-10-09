@@ -9,4 +9,4 @@ public class Animal{
 		this.name = name;
 		this.height = height;
 	}
-}
+}//end
