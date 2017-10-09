@@ -1,7 +1,7 @@
 /*
 * hello jEAN
 */
-public class Animal{
+public class Animol{
 	private String name;
 	private double height;
 	
