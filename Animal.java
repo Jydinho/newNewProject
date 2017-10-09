@@ -1,5 +1,5 @@
 /*
-*
+* hello jEAN
 */
 public class Animal{
 	private String name;
